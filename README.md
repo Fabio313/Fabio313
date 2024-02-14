@@ -1,6 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Fabio!</strong>
 
-> Trabalho como desenvolvedor e estou sempre buscando evoluir meus conhecimentos onde for possivel com novas tecnologias e linguagens.
+> Trabalho como desenvolvedor backend com C#(.Net) com 2 anos de experiencia
+> Estou sempre buscando evoluir meus conhecimentos onde for possivel com novas tecnologias e linguagens.
+> Atualmente me desafiando a aprender React para complementar conhecimentos de Backend
 
 💬 Meu linkedin: https://www.linkedin.com/in/fabio-zenatti-ferrenha-b318a1208/.
 
